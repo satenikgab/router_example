@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "title": "Homepage Design",
+    "description": "Create a new design for the homepage that aligns with the new branding guidelines.",
+    "status": "Completed",
+    "assignee": "Alice Johnson",
+    "dueDate": "2024-08-01"
+  },
+  {
+    "id": 102,
+    "title": "Homepage Design",
+    "description": "Create a new design for the homepage that aligns with the new branding guidelines.",
+    "status": "Completed",
+    "assignee": "Alice Johnson",
+    "dueDate": "2024-08-01"
+  },
+  {
+    "id": 104,
+    "title": "SEO Optimization",
+    "description": "Optimize website content and metadata for better search engine rankings.",
+    "status": "Completed",
+    "assignee": "Eve Williams",
+    "dueDate": "2024-09-01"
+  },
+  {
+    "id": 107,
+    "title": "SEO Optimization",
+    "description": "Optimize website content and metadata for better search engine rankings.",
+    "status": "Pending",
+    "assignee": "Eve Williams",
+    "dueDate": "2024-09-01"
+  }
+]

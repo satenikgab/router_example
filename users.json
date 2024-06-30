@@ -1,0 +1,38 @@
+[
+  {
+    "userId": 503,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "UX/UI Designer"
+  },
+  {
+    "userId": 505,
+    "name": "Bill Smith",
+    "email": "bill.smith@example.com",
+    "role": "Backend engineer"
+  },
+  {
+    "userId": 507,
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "role": "Frontend Developer"
+  },
+  {
+    "userId": 508,
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "role": "DevOps Engineer"
+  },
+  {
+    "userId": 510,
+    "name": "Liam Davis",
+    "email": "liam.davis@example.com",
+    "role": "Project Manager"
+  },
+  {
+    "userId": 511,
+    "name": "Olivia Martinez",
+    "email": "olivia.martinez@example.com",
+    "role": "Data Scientist"
+  }
+]
